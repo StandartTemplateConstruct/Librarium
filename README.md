@@ -28,7 +28,7 @@
 
 
 #### Sports
- - [Sporthesia: Augmenting Sports Videos Using Natural Language](https://arxiv.org/pdf/2209.03434.pdf)
+ - [Sporthesia: Augmenting Sports Videos Using Natural Language](https://arxiv.org/pdf/2209.03434.pdf) (proof of concept tennis only, no source code)
  - [survey](https://arxiv.org/pdf/2206.01038.pdf) [survey2](https://arxiv.org/pdf/1703.01170.pdf)
 
 
