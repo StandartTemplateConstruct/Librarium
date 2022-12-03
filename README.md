@@ -1,5 +1,7 @@
 # Librarium
 
+*Plex for YouTube/audiobooks with AI extras*
+
 ## Server
 
 ### Any file
