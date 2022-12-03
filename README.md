@@ -16,6 +16,12 @@
  - [scene splitting](http://scenedetect.com/en/latest/)
  - [HLS streaming](https://developer.apple.com/streaming/)
 
+#### Youtube Recommenadation
+
+ - [No Video Left Behind](https://arxiv.org/pdf/2210.08136.pdf)
+ - [AI-EVL](https://arxiv.org/pdf/2203.11157.pdf)
+ - [metadata dataset](https://arxiv.org/pdf/2012.10378.pdf)
+
 #### Lectures
  - Automatic Detection of Slide Transitions in Lecture Videos using Convolutional Neural Networks [github](https://github.com/asindel/SliTraNet) [paper](https://arxiv.org/pdf/2202.03540.pdf)
  - [Multimodal Lecture Presentations Dataset](https://arxiv.org/pdf/2208.08080.pdf)
