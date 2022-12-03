@@ -26,6 +26,9 @@
  - [survey](https://arxiv.org/pdf/2206.01038.pdf) [survey2](https://arxiv.org/pdf/1703.01170.pdf)
 
 
+#### Cooking
+ - [Recipe generation](https://arxiv.org/pdf/2209.10134.pdf)
+
 #### Comics
 
   - [survey](https://arxiv.org/pdf/1804.05490.pdf)
