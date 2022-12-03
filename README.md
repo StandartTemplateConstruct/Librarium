@@ -16,7 +16,7 @@
  - [scene splitting](http://scenedetect.com/en/latest/)
  - [HLS streaming](https://developer.apple.com/streaming/)
 
-#### Youtube Recommenadation
+#### Youtube Recommendations
 
  - [No Video Left Behind](https://arxiv.org/pdf/2210.08136.pdf)
  - [AI-EVL](https://arxiv.org/pdf/2203.11157.pdf)
@@ -45,6 +45,12 @@
 #### Misc
  - [Visual Subtitle Feature Enhanced Video Outline Generation](https://arxiv.org/pdf/2208.11307.pdf)
  - [face tracking subtitles](https://arxiv.org/pdf/1407.5145.pdf)
+
+
+### Screenshots
+
+ - [pix2struct](https://arxiv.org/pdf/2210.03347.pdf)
+ - [screenshot clustering](https://arxiv.org/pdf/1901.02701.pdf)
 
 ### Audiobooks
 
