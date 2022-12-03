@@ -39,6 +39,10 @@
 
  - many mp3 > m4b conversion
  - subtitle generation
+  - [with word boundaries](https://cmusphinx.github.io)
+  
+### Subtitles
+ - multilingual subtitles word aligment [paper1](https://arxiv.org/pdf/2103.17250.pdf) [paper2](https://arxiv.org/pdf/2004.14837.pdf) 
 
 ### PDFs
  - text recognition
