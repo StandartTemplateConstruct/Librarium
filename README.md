@@ -8,7 +8,7 @@
  - per tag paginated listing
 
 ### Videos
- - youtube channel downloading
+ - youtube channel/keyword downloading
  - on disk transcoding
  - subtitle generation
  - [scene splitting](http://scenedetect.com/en/latest/)
@@ -20,7 +20,7 @@
  - subtitle generation
 
 ## Client app
- - youtube channels management
+ - youtube channel/keyword management
  - Shows cashed videos
  - Switch to next/prev channel
  - Skip to the next scene button
